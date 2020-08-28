@@ -1,9 +1,9 @@
 # test
 
 A simple list
-  - First Item
-  - Second Item
-  - Third Item
-  - Fourth Item
+  - First item
+  - Second item
+  - Third item
+  - Fourth item
 
 I'm done with bullet lists
